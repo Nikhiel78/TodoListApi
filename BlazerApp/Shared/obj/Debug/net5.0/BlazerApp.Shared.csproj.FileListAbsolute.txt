@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\bin\Debug\net5.0\BlazerApp.Shared.deps.json
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\bin\Debug\net5.0\BlazerApp.Shared.runtimeconfig.json
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\bin\Debug\net5.0\BlazerApp.Shared.runtimeconfig.dev.json
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\bin\Debug\net5.0\BlazerApp.Shared.dll
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\bin\Debug\net5.0\ref\BlazerApp.Shared.dll
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\bin\Debug\net5.0\BlazerApp.Shared.pdb
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.AssemblyInfo.cs
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.dll
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\ref\BlazerApp.Shared.dll
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.pdb
+C:\Users\User\source\repos\BlazerApp\BlazerApp\Shared\obj\Debug\net5.0\BlazerApp.Shared.genruntimeconfig.cache
